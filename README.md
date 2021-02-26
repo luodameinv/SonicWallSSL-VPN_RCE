@@ -1,6 +1,18 @@
 # SonicWallSSL-VPN_RCE
+
 一个简单的SonicWallSSL-VPN远程命令执行批量验证脚本
-脚本写得比较简单，主要是对于批量url检测比较实用，单个url检测直接在命令行检测即可，
+
+脚本写得比较简单，主要是对于批量url检测比较实用
+
+用法：将需要检测的url放入同一目录下的url.txt中
+
+执行
+
+python3 SonicWallSSL-VPNrce.py
+
+
+
+单个url检测直接在命令行检测即可，
 
 比如：
 
