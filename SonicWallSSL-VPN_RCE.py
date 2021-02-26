@@ -10,7 +10,7 @@
 import requests
 from requests.packages import urllib3
 
-print("将需要检测的url放入同一目录下的url.txt中执行,python3 SonicWallSSL-VPNrce.py") 
+print("将需要检测的url放入同一目录下的url.txt中执行,python3 SonicWallSSL-VPN_RCE.py") 
 
 urllib3.disable_warnings()
 headers = {
