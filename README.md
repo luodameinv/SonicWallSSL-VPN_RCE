@@ -1,6 +1,6 @@
 # SonicWallSSL-VPN_RCE
 
-一个简单的SonicWallSSL-VPN远程命令执行批量验证脚本
+一个简单的SonicWallSSL-VPN远程命令执行批量检测脚本
 
 脚本写得比较简单，主要是对于批量url检测比较实用
 
