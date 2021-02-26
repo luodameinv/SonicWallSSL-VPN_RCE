@@ -8,7 +8,7 @@
 
 执行
 
-python3 SonicWallSSL-VPNrce.py
+python3 SonicWallSSL-VPN_RCE.py
 
 
 
